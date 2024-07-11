@@ -1,0 +1,10 @@
+{
+    "access":
+    {
+        "municipalidad_caucete":
+        {
+            "allow":true,
+            "until":"2024/01/31"
+        }
+    }
+}
